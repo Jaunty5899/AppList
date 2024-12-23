@@ -3,4 +3,5 @@ svg {
 }
 .abd {
   background-color: aliceblue;
+  display: flex;
 }
